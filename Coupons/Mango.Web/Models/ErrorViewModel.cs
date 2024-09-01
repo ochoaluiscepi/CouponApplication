@@ -7,3 +7,5 @@ namespace Mango.Web.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+
